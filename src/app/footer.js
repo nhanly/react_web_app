@@ -51,19 +51,19 @@ export class Footer extends Component {
       <footer style={styles.footer}>
         <div className="container-fluid" style={styles.footerContainer}>
           <div className="row">
-            <button style={styles.footerMenuFirst} type="button" className="col-lg-3 col-md-3 col-xs-3 btn btn-danger btn-lg" aria-label="Left Align">
+            <button style={styles.footerMenuFirst} type="button" className="col-lg-3 col-md-3 col-xs-3 btn btn-lg" aria-label="Left Align">
               <span style={styles.footerMenuMargin} className="glyphicon glyphicon-list" aria-hidden="true"></span>
                Menu
             </button>
-            <button style={styles.footerMenu} type="button" className="col-lg-3 col-md-3 col-xs-3 btn btn-danger btn-lg" aria-label="Left Align">
+            <button style={styles.footerMenu} type="button" className="col-lg-3 col-md-3 col-xs-3 btn btn-lg" aria-label="Left Align">
               <span style={styles.footerMenuMargin} className="glyphicon glyphicon-plane" aria-hidden="true"></span>
                Tài liệu
             </button>
-            <button style={styles.footerMenu} type="button" className="col-lg-3 col-md-3 col-xs-3 btn btn-danger btn-lg" aria-label="Left Align">
+            <button style={styles.footerMenu} type="button" className="col-lg-3 col-md-3 col-xs-3 btn btn-lg" aria-label="Left Align">
               <span style={styles.footerMenuMargin} className="glyphicon glyphicon-gift" aria-hidden="true"></span>
                Promotion
             </button>
-            <button style={styles.footerMenuLast} type="button" className="col-lg-3 col-md-3 col-xs-3 btn btn-danger btn-lg" aria-label="Left Align">
+            <button style={styles.footerMenuLast} type="button" className="col-lg-3 col-md-3 col-xs-3 btn-lg" aria-label="Left Align">
               <span style={styles.footerMenuMargin} className="glyphicon glyphicon-user" aria-hidden="true"></span>
                Checkin
             </button>
