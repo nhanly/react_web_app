@@ -26,6 +26,14 @@ export class Title extends Component {
             <p>Những chuyên gia thực thụ có thể giúp bạn hoàn tất hồ sơ vay vốn một cách nhanh chóng và chính xác nhất</p>
           </div>
         </div>
+        <nav className="use-middle">
+          <ul>
+            <li><a href="#intro">Vay mua nha</a></li>
+            <li><a href="#work">Vay mua xe</a></li>
+            <li className="use-middle"><a href="#about">Vay sxkd</a></li>
+            <li><a href="#contact">Vay tieu dung</a></li>
+          </ul>
+        </nav>
       </div>
     );
   }

@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 // import {Header} from './header'; {/*<Header/>*/}
 import {Title} from './title';
-import {Techs} from './techs/techs';
 import {Footer} from './footer';
 import {Background} from './background';
 
@@ -26,12 +25,10 @@ export class Main extends Component {
     return (
       <div>
         <div id="wrapper" style={styles.container}>
-
           <main style={styles.main}>
             <Title/>
-            <Techs/>
+            <Footer/>
           </main>
-          <Footer/>
         </div>
         <Background/>
       </div>
