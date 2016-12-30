@@ -1,0 +1,30 @@
+[
+  {
+    "key": "vay_mua_nha",
+    "title": "Vay mua nhà/chung cư",
+    "logo": "../../asset/image/vay_mua_nha.jpg",
+    "text1": "The streaming build system",
+    "text2": "Automate and enhance your workflow"
+  },
+  {
+    "key": "vay_mua_xe",
+    "title": "Vay mua ô tô",
+    "logo": "../../asset/image/vay_mua_xe.jpg",
+    "text1": "The streaming build system",
+    "text2": "Automate and enhance your workflow"
+  },
+  {
+    "key": "vay_sxkd",
+    "title": "Vay SXKD",
+    "logo": "../../asset/image/vay_sxkd.jpg",
+    "text1": "The streaming build system",
+    "text2": "Automate and enhance your workflow"
+  },
+  {
+    "key": "vay_doanh_nghiep",
+    "title": "Vay doanh nghiệp",
+    "logo": "../../asset/image/vay_doanh_nghiep.jpg",
+    "text1": "The streaming build system",
+    "text2": "Automate and enhance your workflow"
+  }
+]
