@@ -1,20 +1,5 @@
 import React, {Component} from 'react';
 
-// const styles = {
-//   title: {
-//     display: 'flex',
-//     flexDirection: 'column',
-//     alignItems: 'center',
-//     padding: '1rem',
-//
-//   },
-//   logo: {
-//     height: '22rem',
-//     backgroundColor: 'white',
-//     borderRadius: '1rem',
-//     margin: '1rem'
-//   }
-// };
 const styles = {
   formElement: {
     display: 'block',
@@ -35,7 +20,7 @@ export class Title extends Component {
   }
 
   handleClick() {
-    this.setState({displayForm: true});
+    this.setState({displayForm: true, useBank: 1});
   }
 
   handleClose() {
